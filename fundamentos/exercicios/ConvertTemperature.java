@@ -6,7 +6,7 @@ public class ConvertTemperature {
 		// (Fahrenheit - 32) * 5/9 = Celsious
 		double f, c;
 		final double AJUSTE = 32;
-		final double FATOR = 5.0/9.0;
+		final double FATOR = 5.0 / 9.0;
 		
 		Scanner input = new Scanner (System.in);
 		System.out.print("Digite o valor em graus Fahrenheit: " );
