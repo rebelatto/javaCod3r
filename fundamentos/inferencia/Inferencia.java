@@ -26,9 +26,9 @@ public class Inferencia {
 		 * var e;  // inicializou em outra não é possivel som a inferencia de tipos
 		 *        //sendo necessario inicializar tudo na declaração
 		 * System.out.println(e);
-		 *  */
-		 var e = 123.45;
-		 System.out.println(e);
+		//  *  */
+		//  var e = 123.45;
+		//  System.out.println(e);
 
 	}
 }
