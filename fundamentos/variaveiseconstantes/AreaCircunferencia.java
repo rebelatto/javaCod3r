@@ -7,9 +7,9 @@ public class AreaCircunferencia {
 		//declaração de constantes usar final e o nome da constante é maiuscula
 		final double PI = 3.14159;
 
-		// double area = PI * raio * raio;
+		double area = PI * raio * raio;
 
-		// System.out.println("Área da circunferência é: " + area);
+		System.out.println("Área da circunferência é: " + area);
 	}
 
 }
